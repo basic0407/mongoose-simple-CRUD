@@ -2,5 +2,23 @@
   "dependencies": {
     "express": "^4.15.3",
     "mongoose": "^4.11.5"
-  }
+  },
+  "name": "mongod-types",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basic0407/mongoose-simple-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basic0407/mongoose-simple-CRUD/issues"
+  },
+  "homepage": "https://github.com/basic0407/mongoose-simple-CRUD#readme",
+  "description": ""
 }
